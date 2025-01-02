@@ -7,15 +7,15 @@ Technologies Used - Java, SpringBoot, ReactJs, HTML5, TailwindCSS.
 This project likely serves as an Employee Management System where:
 
 
-##### Frontend:
+#### Frontend:
 Allows users to interact with the application via a web-based UI.
 
 
-##### Backend: 
+#### Backend: 
 Manages business logic and handles data persistence in a database.
 
 
-##### Use cases: 
+#### Use cases: 
 
 ```
 Add new employees.
